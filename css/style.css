@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+    margin: 20px;
+    padding: 50px;
+}
+.carousel-inner img{
+         width: 450px;
+         height: 300px;
+}
+.carousel-item img{
+         width: 300px;
+         height: 800px;
+}
+.one{
+    background-color: burlywood;
+    height: 70vh;
+}
+
+.two{
+    background-color: beige;
+    height: 70vh;
+
+}
+.three{
+    background-color: #9ec5fe;
+    height: 70vh;
+
+}
+.four{
+    background-color: #0dcaf0;
+    height: 70vh;
+
+}
+.five img{
+    width:100%;
+    height:700px;
+
+}
+.six img{
+    width:100%;
+    height: 700px;
+}
+.seven{
+
+
+}
+
