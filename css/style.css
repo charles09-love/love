@@ -1,0 +1,14 @@
+nav{
+    position: fixed;
+}
+h2{
+    font-weight: bolder;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+img{
+    height: 400px;
+    width: 430px;
+}
